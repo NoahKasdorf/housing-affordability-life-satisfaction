@@ -9,7 +9,7 @@
 
 ## Overview
 
-Canada's housing affordability crisis extends beyond financial strain — it affects mental health and overall life satisfaction. This project investigates whether housing affordability, measured as expected rent stress (rent-to-income ratio), predicts life satisfaction for Canadians, and identifies which populations are most vulnerable to rising rental costs.
+Canada's housing affordability crisis extends beyond financial strain. It affects mental health and overall life satisfaction. This project investigates whether housing affordability, measured as expected rent stress (rent-to-income ratio), predicts life satisfaction for Canadians, and identifies which populations are most vulnerable to rising rental costs.
 
 We merge individual-level health survey data with regional rental market data, train predictive models, and use a 2020→2025 counterfactual scenario to estimate how worsening affordability has impacted well-being across demographic groups.
 
